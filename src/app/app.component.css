@@ -1,0 +1,30 @@
+.marketing .col-lg-4 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: black;
+}
+.marketing h2 {
+  font-size: 150%;
+}
+.marketing .col-lg-4 p {
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
+.jeff {
+  max-width: 50%;
+  width:auto;
+  height:auto;
+  font-size: 10px;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+}
+
+.btn{
+  color:white;
+  font-size: 100%;
+}
